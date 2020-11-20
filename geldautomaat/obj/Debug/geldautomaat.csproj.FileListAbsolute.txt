@@ -1,0 +1,58 @@
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\bin\Debug\geldautomaat.exe.config
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\bin\Debug\geldautomaat.exe
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\bin\Debug\geldautomaat.pdb
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csprojAssemblyReference.cache
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\obj\Debug\geldautomaat.Properties.Resources.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csproj.GenerateResource.cache
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\obj\Debug\geldautomaat.exe
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\obj\Debug\geldautomaat.pdb
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\obj\Debug\geldautomaat.Login.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\obj\Debug\geldautomaat.home.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\bin\Debug\MySql.Data.dll
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csproj.CopyComplete
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\bin\Debug\geldautomaat.exe.config
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\bin\Debug\geldautomaat.exe
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\bin\Debug\geldautomaat.pdb
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csprojAssemblyReference.cache
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.home.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.Login.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.Properties.Resources.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csproj.GenerateResource.cache
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csproj.CopyComplete
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.exe
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.pdb
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.depoMoney.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\obj\Debug\geldautomaat.withMoney.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\bin\Debug\classLibary.dll
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\geldautomaat\bin\Debug\classLibary.pdb
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\geldautomaat.exe.config
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\geldautomaat.exe
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\geldautomaat.pdb
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\classLibary.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\classLibary.pdb
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csprojAssemblyReference.cache
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.depoMoney.resources
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.home.resources
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.Login.resources
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.Properties.Resources.resources
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.withMoney.resources
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csproj.GenerateResource.cache
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csproj.CoreCompileInputs.cache
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.csproj.CopyComplete
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.exe
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.pdb
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\MySql.Data.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\Google.Protobuf.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\Zstandard.Net.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\Renci.SshNet.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\System.Memory.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\System.Buffers.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\bin\Debug\MySql.Data.xml
+C:\Users\youpd\Downloads\geldautomaat\geldautomaat\obj\Debug\geldautomaat.exe.config

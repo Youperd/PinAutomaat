@@ -1,0 +1,52 @@
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\bin\Debug\bankmedewerker.exe.config
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\bin\Debug\bankmedewerker.exe
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\bin\Debug\bankmedewerker.pdb
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.csprojAssemblyReference.cache
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.Properties.Resources.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.csproj.GenerateResource.cache
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.exe
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.pdb
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\bin\Debug\classLibary.dll
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\bin\Debug\MySql.Data.dll
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\bin\Debug\classLibary.pdb
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.csproj.CopyComplete
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.addUser.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.adminLogin.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.adminHome.resources
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.changeUser.resources
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\bankmedewerker.exe.config
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\bankmedewerker.exe
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\bankmedewerker.pdb
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\classLibary.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\geldautomaat.exe
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\MySql.Data.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\Google.Protobuf.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\Zstandard.Net.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\Renci.SshNet.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\System.Memory.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\System.Buffers.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\classLibary.pdb
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\geldautomaat.pdb
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\geldautomaat.exe.config
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\bin\Debug\MySql.Data.xml
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.csprojAssemblyReference.cache
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.exe.config
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.addUser.resources
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.adminHome.resources
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.adminLogin.resources
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.changeUser.resources
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.Properties.Resources.resources
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.csproj.GenerateResource.cache
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.csproj.CoreCompileInputs.cache
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.csproj.CopyComplete
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.exe
+C:\Users\youpd\Downloads\geldautomaat\bankmedewerker\obj\Debug\bankmedewerker.pdb

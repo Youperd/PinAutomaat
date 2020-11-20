@@ -1,0 +1,19 @@
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.csprojAssemblyReference.cache
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.AssemblyInfoInputs.cache
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.AssemblyInfo.cs
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\bin\Debug\netstandard2.0\classLibary.deps.json
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\bin\Debug\netstandard2.0\classLibary.dll
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\bin\Debug\netstandard2.0\classLibary.pdb
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.csproj.CopyComplete
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.dll
+C:\Users\jelme\OneDrive\Documents\Level 9\Geldautomaat\geldautomaat\l9-1-c-opdracht-jelmermackay\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.pdb
+C:\Users\youpd\Downloads\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.csprojAssemblyReference.cache
+C:\Users\youpd\Downloads\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.AssemblyInfoInputs.cache
+C:\Users\youpd\Downloads\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.AssemblyInfo.cs
+C:\Users\youpd\Downloads\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.dll
+C:\Users\youpd\Downloads\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.pdb
+C:\Users\youpd\Downloads\geldautomaat\classLibary\bin\Debug\netstandard2.0\classLibary.deps.json
+C:\Users\youpd\Downloads\geldautomaat\classLibary\bin\Debug\netstandard2.0\classLibary.dll
+C:\Users\youpd\Downloads\geldautomaat\classLibary\bin\Debug\netstandard2.0\classLibary.pdb
+C:\Users\youpd\Downloads\geldautomaat\classLibary\obj\Debug\netstandard2.0\classLibary.csproj.CoreCompileInputs.cache
